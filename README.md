@@ -53,3 +53,8 @@ Moreover, you must have installed the following python packages:
 | scipy    | 1.2.1    |  
 | sklearn   | 0.21.3  | 
 | eli5      | 0.10.1   |
+
+
+# License
+
+This report is distributed under Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
