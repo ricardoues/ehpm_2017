@@ -18,7 +18,7 @@ research questions:
 
 This repository contains the following file: 
 
-**Report_EHPM_2017.ipynb** : Technical report study of Salaries in El Salvador.
+[Report_EHPM_2017.ipynb](https://github.com/ricardoues/ehpm_2017/blob/master/Report_EHPM_2017.ipynb) : Technical report study of Salaries in El Salvador.
 
 
 
