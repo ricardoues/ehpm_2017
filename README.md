@@ -18,11 +18,28 @@ research questions:
 
 This repository contains the following file: 
 
-[Report_EHPM_2017.ipynb](https://github.com/ricardoues/ehpm_2017/blob/master/Report_EHPM_2017.ipynb) : Technical report study of Salaries in El Salvador.
+[Report_EHPM_2017.ipynb (2017)](https://github.com/ricardoues/ehpm_2017/blob/master/Report_EHPM_2017.ipynb) : Technical report study of Salaries in El Salvador.
 
-
+In medium there is a 
 
 # Installation 
 
+If you have a kaggle account simply fork the following kernel:
+
+[report-ehpm-2017](https://www.kaggle.com/ricardorios/report-ehpm-2017)
+
+If you want to run the code you must run the following command: 
+
+```
+$ git clone https://github.com/ricardoues/ehpm_2017.git
+
+```
+
+In order to run the IPython Notebook you must download the 
+following file: 
+
+```
+$ wget https://datos.gob.sv/dataset/b4b1c01d-5dc3-4e59-8988-5c8d454edaa5/resource/7b935692-e18a-45b0-b0e4-9607116d01da/download/diccionario_variables_ehpm.csv
+```
 
 
