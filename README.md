@@ -42,4 +42,14 @@ following file:
 $ wget https://datos.gob.sv/dataset/b4b1c01d-5dc3-4e59-8988-5c8d454edaa5/resource/7b935692-e18a-45b0-b0e4-9607116d01da/download/diccionario_variables_ehpm.csv
 ```
 
+Moreover, you must have installed the following python packages: 
 
+| Package | Version |
+|---------|---------|
+| numpy    | 1.16.4   |
+| pandas   | 0.25.1   | 
+| matplotlib | 3.0.3  | 
+| seaborn  | 0.9.0   |
+| scipy    | 1.2.1    |  
+| sklearn   | 0.21.3  | 
+| eli5      | 0.10.1   |
