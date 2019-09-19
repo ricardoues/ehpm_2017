@@ -21,6 +21,7 @@ This repository contains the following file:
 [Report_EHPM_2017.ipynb (2017)](https://github.com/ricardoues/ehpm_2017/blob/master/Report_EHPM_2017.ipynb) : Technical report study of Salaries in El Salvador.
 
 In medium there is a summary of this report in the following link: 
+
 [Medium Post](https://medium.com/@richardrivers/report-on-study-of-salaries-in-el-salvador-2017-a33d8f1e0866?sk=c3b81a292640f3382a10612775211c47)
 
 # Installation 
